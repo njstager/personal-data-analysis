@@ -1,0 +1,9 @@
+com.samsung.shealth.stress,6060029,7
+create_time,time_offset,max,custom,end_time,deviceuuid,start_time,score,pkg_name,update_time,min,binning_data,datauuid,tag_id,comment,algorithm
+2017-12-31 16:17:47.563,UTC-0600,,14e3b09b-c9e1-467b-972f-939d64d44064.custom.json,,dKs3VVxkvQ,2017-12-31 16:17:37.883,0.0,com.sec.android.app.shealth,2017-12-31 16:17:47.563,,,14e3b09b-c9e1-467b-972f-939d64d44064,10001,,
+2018-05-07 11:11:14.714,UTC-0300,,2bc28cf3-e86e-4d50-bbcf-491310bfa429.custom.json,,79R9GKyaj4,2018-05-07 11:10:52.683,12.0,com.sec.android.app.shealth,2018-05-07 11:11:14.714,,,2bc28cf3-e86e-4d50-bbcf-491310bfa429,10001,,
+2018-06-05 11:42:52.945,UTC-0300,,2989ab54-98e8-4d64-9fbb-e10c08542b71.custom.json,,79R9GKyaj4,2018-06-05 11:42:32.762,100.0,com.sec.android.app.shealth,2018-06-05 11:42:52.945,,,2989ab54-98e8-4d64-9fbb-e10c08542b71,10009,,
+2018-06-06 10:55:31.554,UTC-0300,,988e5cf6-b3a7-445b-bcc6-ebe311df9cc0.custom.json,,79R9GKyaj4,2018-06-06 10:55:16.347,43.0,com.sec.android.app.shealth,2018-06-06 10:55:31.554,,,988e5cf6-b3a7-445b-bcc6-ebe311df9cc0,10001,,
+2018-06-11 11:43:45.818,UTC-0300,,c1caf4e4-d319-4947-811b-d2883c51f8d3.custom.json,,79R9GKyaj4,2018-06-11 11:43:38.854,50.0,com.sec.android.app.shealth,2018-06-11 11:43:45.818,,,c1caf4e4-d319-4947-811b-d2883c51f8d3,10001,,
+2018-08-19 15:01:48.400,UTC-0300,,73330911-2aa2-40dd-bd6a-817832a7d25c.custom.json,,79R9GKyaj4,2018-08-19 15:01:32.663,43.0,com.sec.android.app.shealth,2018-08-19 15:01:48.400,,,73330911-2aa2-40dd-bd6a-817832a7d25c,10001,Manomet after walk,
+2019-07-09 15:51:43.434,UTC-0300,0.0,5099d08a-55ca-48e1-a4a6-0622eea96cc3.custom.json,2019-07-09 15:51:25.500,79R9GKyaj4,2019-07-09 15:51:25.500,0.0,com.sec.android.app.shealth,2019-07-09 15:51:43.434,0.0,,5099d08a-55ca-48e1-a4a6-0622eea96cc3,10001,,1

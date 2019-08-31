@@ -1,0 +1,7 @@
+com.samsung.health.device_profile,6060029,6
+create_time,device_group,manufacturer,deviceuuid,pkg_name,update_time,datauuid,name,model
+2017-12-31 16:14:20.123,360003,Samsung Electronics,3CaTqKloqY,com.sec.android.app.shealth,2019-08-14 22:54:56.357,c1a4e489-56e0-4826-567e-39bddac9f6bf,Gear Sport,
+2017-12-31 16:14:20.160,360001,Samsung,dKs3VVxkvQ,com.sec.android.app.shealth,2018-04-24 03:40:25.292,5b44862c-18a4-45b3-ffaa-d9129ca63cbf,My Device,SM-G955U
+2017-12-31 16:14:20.437,0,Combined,VfS0qUERdZ,com.sec.android.app.shealth,2018-04-24 03:40:25.292,7af9722c-cd99-07b7-853a-43ce58e819c5,Combined,Combined
+2017-12-31 16:14:21.736,0,all_target,Mk66SbFqK1,com.sec.android.app.shealth,2018-04-24 03:40:25.292,471ca32b-a665-1e9e-7c27-7ac69485dc05,all_target,all_target
+2018-03-24 14:27:48.537,360001,Samsung,79R9GKyaj4,com.sec.android.app.shealth,2018-04-24 03:40:25.292,70882720-b427-92b4-c1fb-46bdfdcded34,My Device,SM-G955U
